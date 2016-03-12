@@ -8,6 +8,6 @@ Copy the `JLMK LICENSE` file into your project and edit it with your name and gi
 
 ## Licensing
 
-This project is under the JLMK License, which means you can do whatever you want with the code, **J**ust **L**et **M**e **K**now.
+This project is under the [JLMK License](https://github.com/igor9silva/JLMK-License), which means you can do whatever you want with the code, **J**ust **L**et **M**e **K**now.
 
-For the full license check the `LICENSE` file.
+For the full license check out the `LICENSE` file.
